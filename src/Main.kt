@@ -33,4 +33,3 @@ fun main() {
     val phone = FoldablePhone()
     phone.checkPhoneScreenLight()
 }
-///
